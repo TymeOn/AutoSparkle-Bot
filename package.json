@@ -1,0 +1,26 @@
+{
+  "name": "autosparkle-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TymeOn/AutoSparkle-Bot.git"
+  },
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/TymeOn/AutoSparkle-Bot/issues"
+  },
+  "homepage": "https://github.com/TymeOn/AutoSparkle-Bot#readme",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "nodemon": "^3.0.1"
+  }
+}
